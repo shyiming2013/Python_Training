@@ -1,2 +1,6 @@
 
 This is a test file for git training which is about python trainning.
+
+This order is to test modifying the code. 
+
+This step is for test the second step for the modifying.
